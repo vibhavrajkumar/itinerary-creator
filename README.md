@@ -1,4 +1,4 @@
-#Itinerary Creator Project
+# Itinerary Creator Project
 CS225 Final Project
 
 ## Location
