@@ -1,5 +1,6 @@
 # Itinerary Creator Project
 CS225 Final Project
+Contributors: Vibhav Rajkumar, Adarsh Dayalan, Neil Angajala, Daniel He
 
 ## Location
 
