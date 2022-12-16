@@ -1,5 +1,5 @@
-# dayalan2-vibhavr2-neila2-jizheng4
-The final project git repo for team 6b874400-a1a7-11ec-ab4d-33d651ddc544
+#Itinerary Creator Project
+CS225 Final Project
 
 ## Location
 
@@ -7,11 +7,6 @@ The final project git repo for team 6b874400-a1a7-11ec-ab4d-33d651ddc544
 * Tests are in the `/tests` folder
 * Data is in the `/data` folder
 * [Report](./results.md)
-* [Presentation](https://mediaspace.illinois.edu/media/t/1_irr27hrz)
-* [Team Contract](./team_contract.md)
-* [Project Proposal](./project_proposal.md)
-* [Meeting Log](./meeting_log.md)
-* [Get Rick-Rolled](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 ## Running Instructions
 
