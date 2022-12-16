@@ -1,0 +1,5 @@
+First line;   
+Second___"'line
+
+   THERE WAS AN EMPTY LINE???
+eof`incoming`
